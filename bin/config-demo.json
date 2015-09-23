@@ -1,0 +1,18 @@
+{
+	"options" : {
+		  "host": "localhost",
+		  "port":"2016",
+		  "log": "trace",
+		  "index": "kazi"
+	},
+	
+	"auth":{
+		"kazi-token":"YOUR-SECRET-TOKEN"
+	},
+
+	"loggers":{
+		"firebase":{
+			"url":"https://[FIREBASE URL].firebaseio.com"
+		}
+	}
+}

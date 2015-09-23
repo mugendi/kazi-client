@@ -1,0 +1,40 @@
+{
+  "name": "kazi-client",
+  "version": "1.0.0",
+  "description": "RESTFul Job-Queue Server with API to serve jobs to remote workers. Workers connect, identify themselves & request to be allocated work. The server allocates work through a Priority Job Queue or FIFO Job Queue. Workers report when they finish jobs or are banned (timeout) from accessing more jobs!",
+  "main": "test.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Anthony Mugendi <ngurumugz@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "async": "^1.4.2",
+    "chalk": "^1.1.1",
+    "chance": "^0.7.7",
+    "chokidar": "^1.0.6",
+    "clear-require": "^1.0.1",
+    "cluster": "^0.7.7",
+    "firebase": "^2.2.9",
+    "json-parse-safe": "^1.0.3",
+    "lodash": "^3.10.1",
+    "log4js": "^0.6.27",
+    "mkdirp": "^0.5.1",
+    "moment": "^2.10.6",
+    "morgan": "^1.6.1",
+    "path": "^0.12.7",
+    "request": "^2.62.0"
+  },
+  "devDependencies": {},
+  "keywords": [
+    "job",
+    "jobs",
+    "queue",
+    "jobqueue",
+    "workers",
+    "server",
+    "restful",
+    "api",
+    "work"
+  ]
+}
