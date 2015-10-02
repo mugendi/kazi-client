@@ -1,82 +1,99 @@
-[2015-09-22 21:08:20.847] [ERROR] server-error - ReferenceError: SSSS is not defined
-    at null._onTimeout (D:\Node\MY MODULES\kazi2\client\workers\twitter-tracker.js:16:12)
-    at Timer.listOnTimeout [as ontimeout] (timers.js:112:15)
-[2015-09-22 21:08:53.206] [ERROR] server-error - [[94m[1m[4m     JANE     [24m[22m[39m] >> Error: connect ECONNREFUSED
-[2015-09-22 21:08:55.279] [ERROR] server-error - ReferenceError: SSSS is not defined
-    at null._onTimeout (D:\Node\MY MODULES\kazi2\client\workers\twitter-tracker.js:16:12)
-    at Timer.listOnTimeout [as ontimeout] (timers.js:112:15)
-[2015-09-22 21:08:55.491] [ERROR] server-error - ReferenceError: SSSS is not defined
-    at null._onTimeout (D:\Node\MY MODULES\kazi2\client\workers\twitter-tracker.js:16:12)
-    at Timer.listOnTimeout [as ontimeout] (timers.js:112:15)
-[2015-09-22 21:09:07.429] [ERROR] server-error - ReferenceError: SSSS is not defined
-    at null._onTimeout (D:\Node\MY MODULES\kazi2\client\workers\twitter-tracker.js:16:12)
-    at Timer.listOnTimeout [as ontimeout] (timers.js:112:15)
-[2015-09-22 21:09:19.640] [ERROR] server-error - ReferenceError: SSSS is not defined
-    at null._onTimeout (D:\Node\MY MODULES\kazi2\client\workers\twitter-tracker.js:16:12)
-    at Timer.listOnTimeout [as ontimeout] (timers.js:112:15)
-[2015-09-22 21:09:19.798] [ERROR] server-error - ReferenceError: SSSS is not defined
-    at null._onTimeout (D:\Node\MY MODULES\kazi2\client\workers\twitter-tracker.js:16:12)
-    at Timer.listOnTimeout [as ontimeout] (timers.js:112:15)
-[2015-09-22 21:09:31.530] [ERROR] server-error - ReferenceError: SSSS is not defined
-    at null._onTimeout (D:\Node\MY MODULES\kazi2\client\workers\twitter-tracker.js:16:12)
-    at Timer.listOnTimeout [as ontimeout] (timers.js:112:15)
-[2015-09-22 21:09:49.771] [ERROR] server-error - ReferenceError: SSSS is not defined
-    at null._onTimeout (D:\Node\MY MODULES\kazi2\client\workers\twitter-tracker.js:16:12)
-    at Timer.listOnTimeout [as ontimeout] (timers.js:112:15)
-[2015-09-22 21:10:00.063] [ERROR] server-error - ReferenceError: SSSS is not defined
-    at null._onTimeout (D:\Node\MY MODULES\kazi2\client\workers\twitter-tracker.js:16:12)
-    at Timer.listOnTimeout [as ontimeout] (timers.js:112:15)
-[2015-09-22 21:10:13.792] [ERROR] server-error - ReferenceError: SSSS is not defined
-    at null._onTimeout (D:\Node\MY MODULES\kazi2\client\workers\twitter-tracker.js:16:12)
-    at Timer.listOnTimeout [as ontimeout] (timers.js:112:15)
-[2015-09-22 21:10:25.569] [ERROR] server-error - ReferenceError: SSSS is not defined
-    at null._onTimeout (D:\Node\MY MODULES\kazi2\client\workers\twitter-tracker.js:16:12)
-    at Timer.listOnTimeout [as ontimeout] (timers.js:112:15)
-[2015-09-22 21:13:18.787] [ERROR] server-error - [[94m[1m[4m     ELVA     [24m[22m[39m] >> Error: connect ECONNREFUSED
-[2015-09-22 21:15:33.904] [ERROR] server-error - [[94m[1m[4m   MILDRED    [24m[22m[39m] >> Error: connect ECONNREFUSED
-[2015-09-22 21:17:33.670] [ERROR] server-error - [[94m[1m[4m    ERNEST    [24m[22m[39m] >> Error: connect ECONNREFUSED
-[2015-09-22 21:23:44.432] [ERROR] server-error - [[94m[1m[4m    RONNIE    [24m[22m[39m] >> Error: connect ECONNREFUSED
-[2015-09-22 21:28:10.083] [ERROR] server-error - [[94m[1m[4m     NINA     [24m[22m[39m] >> Error: connect ECONNREFUSED
-[2015-09-22 21:58:09.951] [ERROR] server-error - [[94m[1m[4m    JIMMY     [24m[22m[39m] >> Error: connect ECONNREFUSED
-[2015-09-22 22:00:03.492] [ERROR] server-error - ReferenceError: askljha is not defined
-    at null._onTimeout (D:\Node\MY MODULES\kazi2\client\workers\twitter-tracker.js:16:4)
-    at Timer.listOnTimeout [as ontimeout] (timers.js:112:15)
-[2015-09-22 22:13:20.112] [ERROR] server-error - [[94m[1m[4m     LOIS     [24m[22m[39m] >> Error: connect ECONNREFUSED
-[2015-09-22 22:17:31.077] [ERROR] server-error - [[94m[1m[4m    BELLE     [24m[22m[39m] >> Error: connect ECONNREFUSED
-[2015-09-22 22:17:31.290] [ERROR] server-error - [[94m[1m[4m    EDDIE     [24m[22m[39m] >> Error: connect ECONNREFUSED
-[2015-09-22 22:17:31.305] [ERROR] server-error - [[94m[1m[4m    DONALD    [24m[22m[39m] >> Error: connect ECONNREFUSED
-[2015-09-22 22:18:10.610] [ERROR] server-error - [[94m[1m[4m   KATHRYN    [24m[22m[39m] >> Error: connect ECONNREFUSED
-[2015-09-22 23:00:26.282] [ERROR] server-error - [[94m[1m[4m    ISABEL    [24m[22m[39m] >> null
-[2015-09-22 23:00:35.596] [ERROR] server-error - [[94m[1m[4m    NATHAN    [24m[22m[39m] >> null
-[2015-09-23 08:30:55.403] [ERROR] server-error - [[94m[1m[4m    MARTHA    [24m[22m[39m] >> Error: connect ECONNREFUSED
-[2015-09-23 08:30:55.410] [ERROR] server-error - [[94m[1m[4m   BRANDON    [24m[22m[39m] >> Error: connect ECONNREFUSED
-[2015-09-23 08:30:55.459] [ERROR] server-error - [[94m[1m[4m    BERTHA    [24m[22m[39m] >> Error: connect ECONNREFUSED
-[2015-09-23 08:34:41.067] [ERROR] server-error - [[94m[1m[4m   MITCHELL   [24m[22m[39m] >> Error: connect ECONNREFUSED
-[2015-09-23 08:38:16.171] [ERROR] server-error - [[94m[1m[4m    EUGENE    [24m[22m[39m] >> Error: connect ECONNREFUSED
-[2015-09-23 08:38:18.303] [ERROR] server-error - [[94m[1m[4m    ANDRE     [24m[22m[39m] >> Error: read ECONNRESET
-[2015-09-23 08:38:18.309] [ERROR] server-error - [[94m[1m[4m     EARL     [24m[22m[39m] >> Error: read ECONNRESET
-[2015-09-23 08:38:21.683] [ERROR] server-error - [[94m[1m[4m    JULIA     [24m[22m[39m] >> Error: read ECONNRESET
-[2015-09-23 08:44:00.870] [ERROR] server-error - [[94m[1m[4m    ARTHUR    [24m[22m[39m] >> Error: connect ECONNREFUSED
-[2015-09-23 08:44:53.263] [ERROR] server-error - [[94m[1m[4m    CELIA     [24m[22m[39m] >> Error: read ECONNRESET
-[2015-09-23 08:44:57.075] [ERROR] server-error - [[94m[1m[4m    ALLEN     [24m[22m[39m] >> Error: connect ECONNREFUSED
-[2015-09-23 08:44:59.294] [ERROR] server-error - [[94m[1m[4m     VERA     [24m[22m[39m] >> Error: connect ECONNREFUSED
-[2015-09-23 08:49:31.558] [ERROR] server-error - [[94m[1m[4m    LUCAS     [24m[22m[39m] >> Error: connect ECONNREFUSED
-[2015-09-23 08:52:56.888] [ERROR] server-error - [[94m[1m[4m   JACKSON    [24m[22m[39m] >> Error: connect ECONNREFUSED
-[2015-09-23 08:53:07.530] [ERROR] server-error - [[94m[1m[4m   MATILDA    [24m[22m[39m] >> Error: connect ECONNREFUSED
-[2015-09-23 08:54:48.367] [ERROR] server-error - [[94m[1m[4m     KATE     [24m[22m[39m] >> Error: connect ECONNREFUSED
-[2015-09-23 09:06:04.419] [ERROR] client-error - [[94m[1m[4m   JACKSON    [24m[22m[39m] >> Error: connect ECONNREFUSED
-[2015-09-23 09:08:21.516] [ERROR] client-error - [[94m[1m[4m    BRETT     [24m[22m[39m] >> Error: connect ECONNREFUSED
-[2015-09-23 09:12:59.139] [ERROR] client-error - [[94m[1m[4m    LIZZIE    [24m[22m[39m] >> Error: connect ECONNREFUSED
-[2015-09-23 09:19:24.464] [ERROR] client-error - [[94m[1m[4m    RACHEL    [24m[22m[39m] >> Error: connect ECONNREFUSED
-[2015-09-23 09:20:20.140] [ERROR] client-error - [[94m[1m[4m    WILLIE    [24m[22m[39m] >> Error: connect ECONNREFUSED
-[2015-09-23 09:20:21.041] [ERROR] client-error - [[94m[1m[4m    DOLLIE    [24m[22m[39m] >> Error: connect ECONNREFUSED
-[2015-09-23 09:23:15.322] [ERROR] client-error - [[94m[1m[4m    EDITH     [24m[22m[39m] >> Error: connect ECONNREFUSED
-[2015-09-23 09:23:15.510] [ERROR] client-error - [[94m[1m[4m    ROGER     [24m[22m[39m] >> Error: connect ECONNREFUSED
-[2015-09-23 09:23:15.514] [ERROR] client-error - [[94m[1m[4m    ELIZA     [24m[22m[39m] >> Error: connect ECONNREFUSED
-[2015-09-23 09:24:29.607] [ERROR] client-error - [[94m[1m[4m    BRUCE     [24m[22m[39m] >> Error: read ECONNRESET
-[2015-09-23 09:29:16.323] [ERROR] client-error - [[94m[1m[4m     JOEL     [24m[22m[39m] >> Error: connect ECONNREFUSED
-[2015-09-23 09:29:56.447] [ERROR] client-error - [[94m[1m[4m    FLOYD     [24m[22m[39m] >> Error: connect ECONNREFUSED
-[2015-09-23 09:30:39.479] [ERROR] client-error - [[94m[1m[4m   ZACHARY    [24m[22m[39m] >> Error: connect ECONNREFUSED
-[2015-09-23 09:30:39.536] [ERROR] client-error - [[94m[1m[4m     JEAN     [24m[22m[39m] >> Error: connect ECONNREFUSED
-[2015-09-23 09:49:38.267] [ERROR] client-error - [[94m[1m[4m    CALLIE    [24m[22m[39m] >> Error: connect ECONNREFUSED
-[2015-09-23 09:55:35.476] [ERROR] client-error - [[94m[1m[4m    SHAWN     [24m[22m[39m] >> Error: connect ECONNREFUSED
+[2015-10-02 05:49:33.000] [ERROR] client-error - ReferenceError: domain is not defined
+    at Object.worker.run (D:\Node\MY MODULES\WORKERS\es\bulk.js:15:14)
+    at D:\Node\MY MODULES\kazi2\client\lib\client.js:130:32
+    at b (domain.js:183:18)
+    at Domain.run (domain.js:123:23)
+    at D:\Node\MY MODULES\kazi2\client\lib\client.js:124:20
+    at Request._callback (D:\Node\MY MODULES\kazi2\client\lib\client.js:364:5)
+    at Request.self.callback (D:\Node\MY MODULES\kazi2\client\node_modules\request\request.js:198:22)
+    at Request.emit (events.js:98:17)
+    at Request.<anonymous> (D:\Node\MY MODULES\kazi2\client\node_modules\request\request.js:1063:14)
+    at Request.emit (events.js:117:20)
+    at IncomingMessage.<anonymous> (D:\Node\MY MODULES\kazi2\client\node_modules\request\request.js:1009:12)
+    at IncomingMessage.emit (events.js:117:20)
+    at _stream_readable.js:943:16
+    at process._tickDomainCallback (node.js:463:13)
+[2015-10-02 05:49:41.635] [ERROR] client-error - ReferenceError: domain is not defined
+    at D:\Node\MY MODULES\WORKERS\es\bulk.js:19:14
+    at D:\Node\MY MODULES\WORKERS\es\bulk.js:46:12
+    at respond (D:\Node\MY MODULES\WORKERS\es\node_modules\elasticsearch\src\lib\transport.js:275:9)
+    at checkRespForFailure (D:\Node\MY MODULES\WORKERS\es\node_modules\elasticsearch\src\lib\transport.js:219:7)
+    at HttpConnector.<anonymous> (D:\Node\MY MODULES\WORKERS\es\node_modules\elasticsearch\src\lib\connectors\http.js:155:7)
+    at IncomingMessage.wrapper (D:\Node\MY MODULES\WORKERS\es\node_modules\elasticsearch\node_modules\lodash\index.js:3095:19)
+    at IncomingMessage.emit (events.js:117:20)
+    at _stream_readable.js:943:16
+    at process._tickDomainCallback (node.js:463:13)
+[2015-10-02 05:50:01.924] [ERROR] client-error - ReferenceError: domain is not defined
+    at D:\Node\MY MODULES\WORKERS\es\bulk.js:21:14
+    at D:\Node\MY MODULES\WORKERS\es\bulk.js:48:12
+    at Object.utils.applyArgs (D:\Node\MY MODULES\WORKERS\es\node_modules\elasticsearch\src\lib\utils.js:252:17)
+    at wrapper (D:\Node\MY MODULES\WORKERS\es\node_modules\elasticsearch\node_modules\lodash\index.js:3533:19)
+    at process._tickDomainCallback (node.js:463:13)
+[2015-10-02 06:55:49.611] [ERROR] client-error - ReferenceError: _ is not defined
+    at save_to_db (D:\Node\MY MODULES\WORKERS\es\bulk.js:49:2)
+    at Object.worker.run (D:\Node\MY MODULES\WORKERS\es\bulk.js:15:3)
+    at D:\Node\MY MODULES\kazi2\client\lib\client.js:130:32
+    at b (domain.js:183:18)
+    at Domain.run (domain.js:123:23)
+    at D:\Node\MY MODULES\kazi2\client\lib\client.js:124:20
+    at Request._callback (D:\Node\MY MODULES\kazi2\client\lib\client.js:364:5)
+    at Request.self.callback (D:\Node\MY MODULES\kazi2\client\node_modules\request\request.js:198:22)
+    at Request.emit (events.js:98:17)
+    at Request.<anonymous> (D:\Node\MY MODULES\kazi2\client\node_modules\request\request.js:1063:14)
+    at Request.emit (events.js:117:20)
+    at IncomingMessage.<anonymous> (D:\Node\MY MODULES\kazi2\client\node_modules\request\request.js:1009:12)
+    at IncomingMessage.emit (events.js:117:20)
+    at _stream_readable.js:943:16
+    at process._tickDomainCallback (node.js:463:13)
+[2015-10-02 06:56:01.103] [ERROR] client-error - ReferenceError: _ is not defined
+    at save_to_db (D:\Node\MY MODULES\WORKERS\es\bulk.js:49:2)
+    at Object.worker.run (D:\Node\MY MODULES\WORKERS\es\bulk.js:15:3)
+    at D:\Node\MY MODULES\kazi2\client\lib\client.js:130:32
+    at b (domain.js:183:18)
+    at Domain.run (domain.js:123:23)
+    at D:\Node\MY MODULES\kazi2\client\lib\client.js:124:20
+    at Request._callback (D:\Node\MY MODULES\kazi2\client\lib\client.js:364:5)
+    at Request.self.callback (D:\Node\MY MODULES\kazi2\client\node_modules\request\request.js:198:22)
+    at Request.emit (events.js:98:17)
+    at Request.<anonymous> (D:\Node\MY MODULES\kazi2\client\node_modules\request\request.js:1063:14)
+    at Request.emit (events.js:117:20)
+    at IncomingMessage.<anonymous> (D:\Node\MY MODULES\kazi2\client\node_modules\request\request.js:1009:12)
+    at IncomingMessage.emit (events.js:117:20)
+    at _stream_readable.js:943:16
+    at process._tickDomainCallback (node.js:463:13)
+[2015-10-02 06:56:11.083] [ERROR] client-error - ReferenceError: _ is not defined
+    at save_to_db (D:\Node\MY MODULES\WORKERS\es\bulk.js:49:2)
+    at Object.worker.run (D:\Node\MY MODULES\WORKERS\es\bulk.js:15:3)
+    at D:\Node\MY MODULES\kazi2\client\lib\client.js:130:32
+    at b (domain.js:183:18)
+    at Domain.run (domain.js:123:23)
+    at D:\Node\MY MODULES\kazi2\client\lib\client.js:124:20
+    at Request._callback (D:\Node\MY MODULES\kazi2\client\lib\client.js:364:5)
+    at Request.self.callback (D:\Node\MY MODULES\kazi2\client\node_modules\request\request.js:198:22)
+    at Request.emit (events.js:98:17)
+    at Request.<anonymous> (D:\Node\MY MODULES\kazi2\client\node_modules\request\request.js:1063:14)
+    at Request.emit (events.js:117:20)
+    at IncomingMessage.<anonymous> (D:\Node\MY MODULES\kazi2\client\node_modules\request\request.js:1009:12)
+    at IncomingMessage.emit (events.js:117:20)
+    at _stream_readable.js:943:16
+    at process._tickDomainCallback (node.js:463:13)
+[2015-10-02 06:56:17.990] [ERROR] client-error - [SyntaxError: Unexpected token )]
+SyntaxError: Unexpected token )
+    at Module._compile (module.js:439:25)
+    at Object.Module._extensions..js (module.js:474:10)
+    at Module.load (module.js:356:32)
+    at Function.Module._load (module.js:312:12)
+    at Module.require (module.js:364:17)
+    at require (module.js:380:17)
+    at D:\Node\MY MODULES\kazi2\client\lib\client.js:283:17
+    at D:\Node\MY MODULES\kazi2\client\node_modules\async\lib\async.js:187:20
+    at replenish (D:\Node\MY MODULES\kazi2\client\node_modules\async\lib\async.js:322:21)
+    at D:\Node\MY MODULES\kazi2\client\node_modules\async\lib\async.js:333:15
+    at Object.async.forEachLimit.async.eachLimit (D:\Node\MY MODULES\kazi2\client\node_modules\async\lib\async.js:226:35)
+    at Object.client.requireWorkers (D:\Node\MY MODULES\kazi2\client\lib\client.js:276:9)
+    at EventEmitter.<anonymous> (D:\Node\MY MODULES\kazi2\client\lib\client.js:255:13)
+    at EventEmitter.emit (events.js:98:17)
+    at EventEmitter.<anonymous> (D:\Node\MY MODULES\kazi2\client\node_modules\chokidar\index.js:136:15)
+    at EventEmitter.FSWatcher._emit (D:\Node\MY MODULES\kazi2\client\node_modules\chokidar\index.js:152:5)
+    at EventEmitter.<anonymous> (D:\Node\MY MODULES\kazi2\client\node_modules\chokidar\lib\nodefs-handler.js:263:16)
+    at Object.oncomplete (fs.js:107:15)
